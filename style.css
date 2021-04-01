@@ -1,0 +1,26 @@
+#button {
+  padding: 20px;
+  margin-top: 20%;
+  color: #A8DADC;
+  background-color: #E63946;
+  border-width: 3;
+  border-radius: 10px;
+  border-color: #1D3557;
+  font-size: 30px;
+
+}
+
+
+#img {
+ text-align: center;
+ margin: 10px auto 20px;
+    display: block;
+  
+}
+
+body {
+text-align: center;
+  justify-content: center;
+  align-items: center;
+  background-color: #F1FAEE;
+}
